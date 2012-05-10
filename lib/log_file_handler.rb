@@ -2,7 +2,7 @@ module LogFileHandler
 
   def file_modified
     p "1"
-    LogWatcher.reload_file_data(path)
+    LogFile.reload_file_data(path)
   end
 
   def file_moved
