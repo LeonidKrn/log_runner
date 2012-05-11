@@ -1,2 +1,3 @@
-#path: /home/leonid/Dropbox/autotest/megacity/Log
-path: /tmp/2012-05-10.log
+path: /home/leonid/Dropbox/autotest/megacity/Log
+script_path: /home/leonid/Dropbox/autotest/run_tests.rb
+#path: /tmp/2012-05-10.log
